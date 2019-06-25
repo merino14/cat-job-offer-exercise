@@ -36,7 +36,7 @@ Please bear in mind that 50% of the exercise is to set up correctly the environm
   - Virtual Machine Software: [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
   - VM automation Software: [Vagrant](https://www.vagrantup.com/downloads.html)
 
-**Clone this repository and do all your work on it. Please commit periodically so we can follow you progress.**
+**[Clone](https://help.github.com/en/articles/cloning-a-repository) this repository and do all your work on it. Please commit periodically so we can follow you progress.**
 
 There is extensive information on these tools out there and how to use them. A big part of this exercise is to do that.
 
